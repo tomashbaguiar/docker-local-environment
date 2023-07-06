@@ -40,3 +40,4 @@ To check what the scripts would do if ran, use `--dry-run` option
 $ bash environment-downsh --dry-run
 ```
 
+**NOTE: Do not run both `camunda-with-auth` and `camunda-core`.**
